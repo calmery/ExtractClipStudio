@@ -1,7 +1,6 @@
 {
   "name": "ClipStudioDump",
   "version": "0.0.1",
-  "main": "index",
   "repository": "https://github.com/calmery/ClipStudioDump.git",
   "author": "calmery <contact@calmery.me>",
   "license": "MIT"
