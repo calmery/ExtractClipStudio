@@ -1,10 +1,5 @@
 {
-  "name": "ClipStudioDump",
-  "version": "0.0.1",
-  "repository": "https://github.com/calmery/ClipStudioDump.git",
-  "author": "calmery <contact@calmery.me>",
-  "license": "MIT",
   "dependencies": {
-    "sqlite3": "^3.1.8"
+    "sqlite3": "^3.1.13"
   }
 }
